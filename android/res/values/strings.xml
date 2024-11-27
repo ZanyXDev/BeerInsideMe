@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Beer inside mne</string>
+    <string name="desc">QML version</string>
+</resources>
